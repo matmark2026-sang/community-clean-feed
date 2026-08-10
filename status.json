@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10T16:25:02+09:00",
+  "checked_at": "2026-08-10T17:25:02+09:00",
   "collection_ok": false,
   "error": "HTTPError: 430 Client Error: Unknown for url: https://www.fmkorea.com/best",
   "feed_publish_ok": null,
