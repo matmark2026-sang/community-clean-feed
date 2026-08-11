@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12T04:25:02+09:00",
+  "checked_at": "2026-08-12T05:25:03+09:00",
   "collection_ok": false,
   "error": "RuntimeError: 펨코가 자동 요청을 일시 제한했습니다(HTTP 430, Retry-After=300).",
   "feed_publish_ok": null,
