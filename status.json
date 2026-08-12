@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-12T14:20:02+09:00",
+  "checked_at": "2026-08-12T15:20:02+09:00",
   "collection_ok": false,
-  "error": "ConnectionError: HTTPSConnectionPool(host='www.fmkorea.com', port=443): Max retries exceeded with url: /best (Caused by NameResolutionError(\"HTTPSConnection(host='www.fmkorea.com', port=443): Failed to resolve 'www.fmkorea.com' ([Errno -3] Temporary failure in name resolution)\"))",
+  "error": "RuntimeError: 펨코가 자동 요청을 일시 제한했습니다(HTTP 430, Retry-After=300, 대기 재시도 후에도 실패).",
   "feed_publish_ok": null,
   "http_status": null,
   "item_count": 0,
