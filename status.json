@@ -5,17 +5,17 @@
   "github_repository": "matmark2026-sang/community-clean-feed",
   "github_retry_count": 0,
   "last_collection_error": null,
-  "last_collection_item_count": 97,
-  "last_collection_pages": 5,
+  "last_collection_item_count": 21,
+  "last_collection_pages": 1,
   "last_collection_reached_known": true,
-  "last_collection_success_at": "2026-09-05T09:20:00+00:00",
+  "last_collection_success_at": "2026-09-05T13:20:01+00:00",
   "last_github_error": null,
-  "last_github_publish_success_at": "2026-09-05T09:20:28+00:00",
+  "last_github_publish_success_at": "2026-09-05T13:20:07+00:00",
   "last_http_status": 200,
   "last_limit_at": null,
   "next_allowed_at": null,
   "schema_version": 2,
   "source_url": "https://www.fmkorea.com/best",
   "unpublished_batch_count": 0,
-  "updated_at": "2026-09-05T09:20:26+00:00"
+  "updated_at": "2026-09-05T13:20:05+00:00"
 }
