@@ -2,6 +2,12 @@
   "batch_count": 180,
   "batches": [
     {
+      "captured_at": "2026-10-31T17:20:21+00:00",
+      "item_count": 23,
+      "path": "batches/2026-11-01/0220.json",
+      "sha256": "5eb88518e5e41d2533b1b601b7433f2dbef6d8ca9a485eaf0fec60af5b2f2e4f"
+    },
+    {
       "captured_at": "2026-10-31T13:20:08+00:00",
       "item_count": 22,
       "path": "batches/2026-10-31/2220.json",
@@ -1074,15 +1080,9 @@
       "item_count": 21,
       "path": "batches/2026-10-02/0620.json",
       "sha256": "2acd6be601eb0703dc2263ad40aedeeaa40a97b5eaf5c4b19ce65a829edcc78a"
-    },
-    {
-      "captured_at": "2026-10-01T17:20:17+00:00",
-      "item_count": 23,
-      "path": "batches/2026-10-02/0220.json",
-      "sha256": "496d758c6b34dafee4836cb57efa07f6e6995d91ca884b3e991844d6f928eeee"
     }
   ],
-  "latest_collection_success_at": "2026-10-31T13:20:08+00:00",
+  "latest_collection_success_at": "2026-10-31T17:20:21+00:00",
   "schema_version": 2,
-  "updated_at": "2026-10-31T13:20:17+00:00"
+  "updated_at": "2026-10-31T17:20:28+00:00"
 }
