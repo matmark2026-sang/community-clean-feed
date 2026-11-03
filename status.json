@@ -1,21 +1,21 @@
 {
   "backoff_stage": 0,
-  "collector_state": "idle",
+  "collector_state": "error",
   "github_next_retry_at": null,
   "github_repository": "matmark2026-sang/community-clean-feed",
   "github_retry_count": 0,
-  "last_collection_error": null,
+  "last_collection_error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.fmkorea.com/best\", waiting until \"domcontentloaded\"\n",
   "last_collection_item_count": 22,
   "last_collection_pages": 1,
   "last_collection_reached_known": true,
   "last_collection_success_at": "2026-11-03T09:20:20+00:00",
   "last_github_error": null,
-  "last_github_publish_success_at": "2026-11-03T09:20:42+00:00",
-  "last_http_status": 200,
+  "last_github_publish_success_at": "2026-11-03T13:22:11+00:00",
+  "last_http_status": null,
   "last_limit_at": null,
   "next_allowed_at": null,
   "schema_version": 2,
   "source_url": "https://www.fmkorea.com/best",
   "unpublished_batch_count": 0,
-  "updated_at": "2026-11-03T09:20:37+00:00"
+  "updated_at": "2026-11-03T13:22:06+00:00"
 }
